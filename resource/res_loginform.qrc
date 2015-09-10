@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="img">
+    <file>loding.gif</file>
+    <file>button_close_mousedown.png</file>
+    <file>button_close_mouseon.png</file>
+    <file>button_close_normal.png</file>
+    <file>button_min_mousedown.png</file>
+    <file>button_min_mouseon.png</file>
+    <file>button_min_normal.png</file>
+    <file>button_qqlogin_normal.png</file>
+    <file>button_qqlogin_mouseon.png</file>
+    <file>button_error.png</file>
+    <file>checkbox_checked.PNG</file>
+    <file>checkbox_unchecked.PNG</file>
+    <file>lineEdit_user.PNG</file>
+    <file>lineEdit_pwd.PNG</file>
+    <file>login_button_normal.PNG</file>
+    <file>login_button_down.PNG</file>
+    <file>login.PNG</file>
+    <file>login_button_on.PNG</file>
+  </qresource>
+</RCC>
